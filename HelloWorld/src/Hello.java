@@ -1,7 +1,9 @@
-public class Hello {
+class Hello {
 	// khai bao ham main
-	public static void main(String[] args) {
-		System.out.println("Hello World");
-		System.out.println("Wellcome to Java");
+	public static void main(String[] args){
+		System.out.println("hello uye asd bvdj");
+		System.out.println(args[0]);
+		System.out.println(args[1]);
+		System.out.println(args[2]);
 	}
 }

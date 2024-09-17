@@ -1,5 +1,5 @@
 public class variable {
-	public static void main(String[] args) {
+	public static void main(String... args) {
 		String HoTen = "Nguyễn Yến Nhi";
 		String LopHP = "Công nghệ thông tin K46B";
 		int age = 18;
