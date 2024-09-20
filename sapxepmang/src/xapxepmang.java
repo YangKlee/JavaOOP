@@ -1,5 +1,5 @@
 import java.util.Random;
-public class bai2 {
+public class xapxepmang {
 	public static void sinhMang(int a[], int n)
 	{
 		Random rand = new Random();
