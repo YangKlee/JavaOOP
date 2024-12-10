@@ -59,7 +59,7 @@ public class ATM {
 		dsTK[1] = new TaiKhoan("2222222");
 		napTien(dsTK, "1111111", 1000, n);
 		//displayTaiKhoan(dsTK, n);
-		chuyenTien(dsTK, "1111111", "2222222", 500, n);
+		chuyenTien(dsTK, "1111111", "2222222", 5500, n);
 		rutTien(dsTK, "2222222", 200, n);
 		chuyenTien(dsTK,"2222222","1111111", 100, n);
 		displayTaiKhoan(dsTK, n);
