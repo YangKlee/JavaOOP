@@ -15,9 +15,17 @@ import classQNU.*;
 public class QuanLy {
 	public static void main(String[] args) throws SQLException, ClassNotFoundException  {
 		Diem dm = new Diem(1, 1, 1);
-		SinhVien sv1 = new SinhVien(1, "Khang", "Buồi Ngọc", true, "Quy Nhơn", dm);
+		ArrayList<SinhVien> dsdv = new ArrayList<>();
+		dsdv.add(new SinhVien(1, "Nhi", "Nguyễn Yến", true, "Quy Nhơn", dm));
+		dsdv.add(new SinhVien(2, "Nhi", "Nguyễn Lê", true, "Quy Nhơn", dm));
+		dsdv.add(new SinhVien(3, "Lê", "Nguyễn Yến", true, "Quy Nhơn", dm));
+		dsdv.add(new SinhVien(4, "Dương", "Nguyễn Khánh", false, "Quy Nhơn", dm));
 		control con = new control();
-		con.themSV_DB(sv1);
+		for (int i = 0; i < dsdv.size(); i++)
+		{
+			con.themSV_DB(dsdv.get(i));
+		}
+		
 		ArrayList<SinhVien> ds = new ArrayList<>(control.laySV_DB());
 		for (int i = 0; i < ds.size(); i++)
 		{
