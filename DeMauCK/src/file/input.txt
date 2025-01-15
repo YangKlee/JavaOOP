@@ -1,0 +1,21 @@
+CN, Nguyen Van A, 120
+CN, Nguyen Van B, 140
+CN, Nguyen Van C, 1220
+CN, Nguyen Van D, 1234
+CN, Nguyen Van E, 1240
+CN, Nguyen Van F, 2230
+CN, Nguyen Van G, 1400
+CN, Nguyen Van H, 1900
+CN, Nguyen Van I, 1202
+CN, Nguyen Van J, 2005
+TC, Nguyen Le B, 200, 1
+TC, Nguyen Le C, 300, 2
+TC, Nguyen Le D, 11300, 3
+TC, Nguyen Le E, 200, 1
+TC, Nguyen Le F, 300, 2
+TC, Nguyen Le G, 111890, 3
+HSX, Le Van A , 1200
+HSX, Le Van B , 1500
+HSX, Le Van C , 1200
+HSX, Le Van D , 1300
+HSX, Le Van E , 1500
