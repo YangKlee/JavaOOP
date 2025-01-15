@@ -1,0 +1,11 @@
+1, ANguyễn Khánh Dương, 18-07-2005, Nam, 123 Âu Cơ, Quy Nhơn, 0356701052, khanhduong, 17-01-2017, 3.8, None, None, None, None
+1, ANguyễn Yến Nhi, 18-07-2005, Nữ, e, e, 0356701062, kkk, 18-07-2005, 3.2, None, None, None, None
+1, ANguyễn Khánh Dương, 18-07-2005, Nam, 123 Âu Cơ, Quy Nhơn, 0356701052, khanhduong, 17-01-2017, 3.8, None, None, None, None
+1, ANguyễn Khánh Dương, 18-07-2005, Nam, 123 Âu Cơ, Quy Nhơn, 0356701052, khanhduong, 17-01-2017, 0, None, None, None, None
+2, ANhi, 18-07-2005, Nam, 123 Âu Cơ, Quy Nhơn, 0356701052, khanhduong, None, None, Quoc gia, ITPC, 2023, Nhat
+2, A, 18-07-2005, Nam, 123 Âu Cơ, Quy Nhơn, 0356701052, khanhduong, None, None, Ngoai hanh tinh, ITPC, 2023, Vu tru
+2, ANhi, 18-07-2005, Nam, 123 Âu Cơ, Quy Nhơn, 0356701052, khanhduong, 17-01-2017, None, Quoc gia, ITPC, 2023, Nhat
+1, ANguyễn Khánh Dương, 18-07-2005, Nam, 123 Âu Cơ, Quy Nhơn, 0356701052, khanhduong, 17-01-2017, 3.8, Quoc gia, None, None, None
+1, A Khánh Dương, 18-07-2005, Nam, 123 Âu Cơ, Quy Nhơn, 0356701052, khanhduong, 17-01-2017, 3.8, None, None, None, None
+1, ANguyễn Khánh Dương, 18-07-2005, Nam, 123 Âu Cơ, Quy Nhơn, 0356701052, khanhduong, 17-01-2017, 3.8, None, None, None, None
+1, AW Khánh Dương, 18-07-2005, Nam, 123 Âu Cơ, Quy Nhơn, 0356701052, khanhduong, 17-01-2017, 3.8, None, None, None, None

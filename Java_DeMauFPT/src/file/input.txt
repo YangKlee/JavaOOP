@@ -1,0 +1,10 @@
+1, Nguyễn Khánh Dương, 2005/07/18, Bùi Thị Xuân,Bình Định, Tuy Phước, 0356701052, khanhduong18072005@gmail.com, 3.2, ReactJS, Quy Nhon, None, None, None, None, None, None, None
+1, Nguyễn Yến Nhi, 2005/02/17, Tuy Phước,Bình Định, Tuy Phước, 0384937444, nhi4651050044@st.qnu.edu.vn, 1.2, Ngủ, Quy Nhon, None, None, None, None, None, None, None
+2, Nguyễn Phương Quỳnh Hương, 2005/09/09, Phú Yên, Phú Yên, 0356734404, huong@mail..com, None, None, None, 7/2023, Giỏi, ĐH Quy Nhơn, Ngôn ngữ Anh, None, None, None 
+2, Nguyễn Đức Nhật, 2002/02/07, Quy Nhơn,Bình Định, Phước Nghĩa, 0374934554, nhat3322@gmail.com, None, None, None, 7/2023, Giỏi, ĐH Quy Nhơn, CNTT, None, None, None 
+3, Shikanoko, 2000/01/01, Bình nguyên vô tận, Hố nai, 0357293445, shikashika@shika.com, None, None, None, None, None, None, CNTT, 4, QNU University, 7/2027
+3, Nahida, 1920/01/01, Giáo viện Sumeru, Sumeru, 0357293445, nahida@sumeru.teyvat.com, None, None, None, None, None, None, CNTT, 4, QNU University, 7/2027
+2, Trịnh Trần Phương Tuấn, 1997/08/01, Bến Tre, Bến Tre, 0555555555, yeuthienantrondoi@gmail.com, None, None, None, 7/2023, Trung Bình, Học viện bỏ con, None, None, None, None
+2, Trịnh Trần Phương Tuấn, 1997/08/01, Bến Tre, Bến Tre, 0555555555, jack5cubocon@soicodoc@gmail.com, None, None, None, 7/2023, Trung Bình, Học viện bỏ con, None, None, None, None
+2, Trịnh Trần Phương Tuấn, 1997/08/01, Bến Tre, Bến Tre, 0555555555, jack5cubocon@soicodoc@gmail.com, None, None, None, 7/2023, Trung Bình, Học viện bỏ con, None, None, None, None
+2, Trịnh Trần Phương Tuấn, 1997/08/01, Bến Tre, Bến Tre, yeuthienantrondoi, jack5cubocon@soicodoc@gmail.com, None, None, None, 7/2023, Trung Bình, Học viện bỏ con, None, None, None, None

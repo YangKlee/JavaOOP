@@ -1,0 +1,5 @@
+Dòng 3: Email không đúng định dạng!
+Dòng 8: Email không đúng định dạng!
+Dòng 9: Email không đúng định dạng!
+Dòng 10: Số điện thoại không đúng định dạng 
+Dòng 10: Email không đúng định dạng!

@@ -1,0 +1,5 @@
+Dòng 2: Sai định dạng ở trường giới tính
+Dòng 4: Sai định dạng ở trường tổng điểm thi
+Dòng 6: Sai định dạng ở trường cấp độ
+Dòng 7: Thừa dữ liệu
+Dòng 8: Thừa dữ liệu
