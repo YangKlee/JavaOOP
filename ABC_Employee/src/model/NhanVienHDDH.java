@@ -4,6 +4,7 @@
 */ 
 package model;
 
+import java.text.SimpleDateFormat;
 import java.util.Date;
 
 public class NhanVienHDDH extends NhanVien{
@@ -31,8 +32,9 @@ public class NhanVienHDDH extends NhanVien{
 
 	@Override
 	public String toString() {
+		SimpleDateFormat simpleDate = new SimpleDateFormat("MM/dd/yyyy");
 		return "Nhan vien hop dong: \n" + "Ma NV: " + this.maNV + 
-				" Ho ten: " + this.hoTen + " Ngay sinh: "+ this.ngaySinh + " Luong thang: " +
+				" Ho ten: " + this.hoTen + " Ngay sinh: "+ simpleDate.format(this.ngaySinh) + " Luong thang: " +
 				this.luongThang+ " Tien luong: "+ this.tinhLuong();
 	}
 
